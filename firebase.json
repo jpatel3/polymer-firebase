@@ -1,0 +1,9 @@
+{
+  "firebase": "polymer-app-24",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
